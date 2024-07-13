@@ -3,7 +3,7 @@ import requests
 import uvicorn
 from fastapi import FastAPI
 
-from .types import Auth, Base
+from src.module_types import Auth, Base
 
 BASE_URL = "http://localhost:10001"
 SECRET_KEY = "secret"
