@@ -15,4 +15,4 @@ cryptocode = "*"
 
 [requires]
 python_version = "3.12"
-python_full_version = "3.12.3"
+python_full_version = "3.12.4"
